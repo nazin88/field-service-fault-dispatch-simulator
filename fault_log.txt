@@ -1,0 +1,188 @@
+Sat Feb  7 23:30:49 2026: E-stop Triggered - Inspect safety circuit and reset E-stop.
+Sat Feb  7 23:30:54 2026: E-stop Triggered - Inspect safety circuit and reset E-stop.
+Sat Feb  7 23:30:59 2026: Communication Error - Check network connection and reboot equipment.
+Sat Feb  7 23:31:04 2026: E-stop Triggered - Inspect safety circuit and reset E-stop.
+Sat Feb  7 23:31:09 2026: Communication Error - Check network connection and reboot equipment.
+Sat Feb  7 23:31:14 2026: E-stop Triggered - Inspect safety circuit and reset E-stop.
+Sat Feb  7 23:31:19 2026: Communication Error - Check network connection and reboot equipment.
+Sat Feb  7 23:31:24 2026: Motor Overload - Reset overload relay and restart motor.
+Sat Feb  7 23:31:29 2026: Communication Error - Check network connection and reboot equipment.
+Sat Feb  7 23:31:34 2026: E-stop Triggered - Inspect safety circuit and reset E-stop.
+Sat Feb  7 23:31:39 2026: Sensor Failure - Check wiring and replace sensor.
+Sat Feb  7 23:31:44 2026: Sensor Failure - Check wiring and replace sensor.
+Sat Feb  7 23:31:49 2026: Communication Error - Check network connection and reboot equipment.
+Sat Feb  7 23:31:54 2026: Sensor Failure - Check wiring and replace sensor.
+Sat Feb  7 23:31:59 2026: Communication Error - Check network connection and reboot equipment.
+Sat Feb  7 23:32:04 2026: Power Outage - Verify power supply and restore service.
+Sat Feb  7 23:32:09 2026: Motor Overload - Reset overload relay and restart motor.
+Sat Feb  7 23:32:14 2026: Sensor Failure - Check wiring and replace sensor.
+Sat Feb  7 23:32:20 2026: Motor Overload - Reset overload relay and restart motor.
+Sat Feb  7 23:32:25 2026: Power Outage - Verify power supply and restore service.
+Sat Feb  7 23:32:30 2026: Communication Error - Check network connection and reboot equipment.
+Sat Feb  7 23:32:35 2026: Sensor Failure - Check wiring and replace sensor.
+Sat Feb  7 23:32:40 2026: Sensor Failure - Check wiring and replace sensor.
+Sat Feb  7 23:32:45 2026: Sensor Failure - Check wiring and replace sensor.
+Sat Feb  7 23:32:50 2026: Communication Error - Check network connection and reboot equipment.
+Sat Feb  7 23:32:55 2026: E-stop Triggered - Inspect safety circuit and reset E-stop.
+Sat Feb  7 23:33:00 2026: Power Outage - Verify power supply and restore service.
+Sat Feb  7 23:33:05 2026: Motor Overload - Reset overload relay and restart motor.
+Sat Feb  7 23:33:10 2026: Motor Overload - Reset overload relay and restart motor.
+Sat Feb  7 23:33:15 2026: Power Outage - Verify power supply and restore service.
+Sat Feb  7 23:33:20 2026: Motor Overload - Reset overload relay and restart motor.
+Sat Feb  7 23:33:25 2026: Power Outage - Verify power supply and restore service.
+Sat Feb  7 23:33:30 2026: Communication Error - Check network connection and reboot equipment.
+Sat Feb  7 23:33:35 2026: Motor Overload - Reset overload relay and restart motor.
+Sat Feb  7 23:33:40 2026: Motor Overload - Reset overload relay and restart motor.
+Sat Feb  7 23:33:45 2026: E-stop Triggered - Inspect safety circuit and reset E-stop.
+Sat Feb  7 23:33:50 2026: Sensor Failure - Check wiring and replace sensor.
+Sat Feb  7 23:33:55 2026: Sensor Failure - Check wiring and replace sensor.
+Sat Feb  7 23:34:00 2026: Communication Error - Check network connection and reboot equipment.
+Sat Feb  7 23:34:05 2026: E-stop Triggered - Inspect safety circuit and reset E-stop.
+Sat Feb  7 23:34:10 2026: E-stop Triggered - Inspect safety circuit and reset E-stop.
+Sat Feb  7 23:34:15 2026: E-stop Triggered - Inspect safety circuit and reset E-stop.
+Sat Feb  7 23:34:20 2026: Power Outage - Verify power supply and restore service.
+Sat Feb  7 23:34:25 2026: Power Outage - Verify power supply and restore service.
+Sat Feb  7 23:34:30 2026: Power Outage - Verify power supply and restore service.
+Sat Feb  7 23:34:35 2026: Power Outage - Verify power supply and restore service.
+Sat Feb  7 23:34:40 2026: Power Outage - Verify power supply and restore service.
+Sat Feb  7 23:34:45 2026: Power Outage - Verify power supply and restore service.
+Sat Feb  7 23:34:50 2026: Motor Overload - Reset overload relay and restart motor.
+Sat Feb  7 23:34:55 2026: E-stop Triggered - Inspect safety circuit and reset E-stop.
+Sat Feb  7 23:35:00 2026: E-stop Triggered - Inspect safety circuit and reset E-stop.
+Sat Feb  7 23:35:05 2026: E-stop Triggered - Inspect safety circuit and reset E-stop.
+Sat Feb  7 23:35:10 2026: Sensor Failure - Check wiring and replace sensor.
+Sat Feb  7 23:35:15 2026: Sensor Failure - Check wiring and replace sensor.
+Sat Feb  7 23:35:20 2026: Motor Overload - Reset overload relay and restart motor.
+Sat Feb  7 23:35:25 2026: Communication Error - Check network connection and reboot equipment.
+Sat Feb  7 23:35:30 2026: Sensor Failure - Check wiring and replace sensor.
+Sat Feb  7 23:35:35 2026: Power Outage - Verify power supply and restore service.
+Sat Feb  7 23:35:40 2026: Motor Overload - Reset overload relay and restart motor.
+Sat Feb  7 23:35:45 2026: Communication Error - Check network connection and reboot equipment.
+Sat Feb  7 23:35:50 2026: Power Outage - Verify power supply and restore service.
+Sat Feb  7 23:35:55 2026: Power Outage - Verify power supply and restore service.
+Sat Feb  7 23:36:00 2026: Power Outage - Verify power supply and restore service.
+Sat Feb  7 23:36:05 2026: Power Outage - Verify power supply and restore service.
+Sat Feb  7 23:36:10 2026: Power Outage - Verify power supply and restore service.
+Sat Feb  7 23:36:15 2026: Communication Error - Check network connection and reboot equipment.
+Sat Feb  7 23:36:20 2026: E-stop Triggered - Inspect safety circuit and reset E-stop.
+Sat Feb  7 23:36:25 2026: Motor Overload - Reset overload relay and restart motor.
+Sat Feb  7 23:36:30 2026: E-stop Triggered - Inspect safety circuit and reset E-stop.
+Sat Feb  7 23:36:35 2026: Communication Error - Check network connection and reboot equipment.
+Sat Feb  7 23:36:40 2026: Sensor Failure - Check wiring and replace sensor.
+Sat Feb  7 23:36:45 2026: Communication Error - Check network connection and reboot equipment.
+Sat Feb  7 23:36:50 2026: E-stop Triggered - Inspect safety circuit and reset E-stop.
+Sat Feb  7 23:36:55 2026: Power Outage - Verify power supply and restore service.
+Sat Feb  7 23:37:00 2026: Motor Overload - Reset overload relay and restart motor.
+Sat Feb  7 23:37:05 2026: Communication Error - Check network connection and reboot equipment.
+Sat Feb  7 23:37:10 2026: Communication Error - Check network connection and reboot equipment.
+Sat Feb  7 23:37:15 2026: Sensor Failure - Check wiring and replace sensor.
+Sat Feb  7 23:37:20 2026: Sensor Failure - Check wiring and replace sensor.
+Sat Feb  7 23:37:25 2026: Communication Error - Check network connection and reboot equipment.
+Sat Feb  7 23:37:30 2026: Power Outage - Verify power supply and restore service.
+Sat Feb  7 23:37:35 2026: E-stop Triggered - Inspect safety circuit and reset E-stop.
+Sat Feb  7 23:37:40 2026: Power Outage - Verify power supply and restore service.
+Sat Feb  7 23:38:00 2026: Power Outage - Verify power supply and restore service.
+Sat Feb  7 23:38:05 2026: Motor Overload - Reset overload relay and restart motor.
+Sat Feb  7 23:38:10 2026: Sensor Failure - Check wiring and replace sensor.
+Sat Feb  7 23:38:15 2026: Sensor Failure - Check wiring and replace sensor.
+Sat Feb  7 23:38:20 2026: Communication Error - Check network connection and reboot equipment.
+Sat Feb  7 23:38:25 2026: E-stop Triggered - Inspect safety circuit and reset E-stop.
+Sat Feb  7 23:38:30 2026: E-stop Triggered - Inspect safety circuit and reset E-stop.
+Sat Feb  7 23:38:35 2026: Sensor Failure - Check wiring and replace sensor.
+Sat Feb  7 23:38:40 2026: Communication Error - Check network connection and reboot equipment.
+Sat Feb  7 23:38:45 2026: Power Outage - Verify power supply and restore service.
+Sat Feb  7 23:38:50 2026: E-stop Triggered - Inspect safety circuit and reset E-stop.
+Sat Feb  7 23:38:55 2026: Sensor Failure - Check wiring and replace sensor.
+Sat Feb  7 23:39:00 2026: Motor Overload - Reset overload relay and restart motor.
+Sat Feb  7 23:39:05 2026: E-stop Triggered - Inspect safety circuit and reset E-stop.
+Sat Feb  7 23:39:10 2026: Communication Error - Check network connection and reboot equipment.
+Sat Feb  7 23:39:15 2026: Power Outage - Verify power supply and restore service.
+Sat Feb  7 23:39:20 2026: E-stop Triggered - Inspect safety circuit and reset E-stop.
+Sat Feb  7 23:39:25 2026: Motor Overload - Reset overload relay and restart motor.
+Sat Feb  7 23:39:30 2026: Communication Error - Check network connection and reboot equipment.
+Sat Feb  7 23:39:35 2026: Power Outage - Verify power supply and restore service.
+Sat Feb  7 23:39:40 2026: Power Outage - Verify power supply and restore service.
+Sat Feb  7 23:39:45 2026: E-stop Triggered - Inspect safety circuit and reset E-stop.
+Sat Feb  7 23:39:50 2026: Power Outage - Verify power supply and restore service.
+Sat Feb  7 23:39:55 2026: Motor Overload - Reset overload relay and restart motor.
+Sat Feb  7 23:40:00 2026: Power Outage - Verify power supply and restore service.
+Sat Feb  7 23:40:05 2026: Sensor Failure - Check wiring and replace sensor.
+Sat Feb  7 23:40:10 2026: Power Outage - Verify power supply and restore service.
+Sat Feb  7 23:40:15 2026: Communication Error - Check network connection and reboot equipment.
+Sat Feb  7 23:40:20 2026: Sensor Failure - Check wiring and replace sensor.
+Sat Feb  7 23:40:25 2026: Communication Error - Check network connection and reboot equipment.
+Sat Feb  7 23:40:30 2026: Motor Overload - Reset overload relay and restart motor.
+Sat Feb  7 23:40:35 2026: Communication Error - Check network connection and reboot equipment.
+Sat Feb  7 23:40:40 2026: Motor Overload - Reset overload relay and restart motor.
+Sat Feb  7 23:40:46 2026: Communication Error - Check network connection and reboot equipment. (Time taken: 3 min)
+Sat Feb  7 23:40:53 2026: E-stop Triggered - Inspect safety circuit and reset E-stop. (Time taken: 1 min)
+Sat Feb  7 23:40:58 2026: Motor Overload - Reset overload relay and restart motor. (Time taken: 2 min)
+Sat Feb  7 23:41:04 2026: Sensor Failure - Check wiring and replace sensor. (Time taken: 3 min)
+Sat Feb  7 23:41:08 2026: Sensor Calibration Error - Recalibrate the sensor and test readings. (Time taken: 2 min)
+Sat Feb  7 23:41:12 2026: Communication Error - Check network connection and reboot equipment. (Time taken: 3 min)
+Sat Feb  7 23:41:18 2026: Motor Overload - Reset overload relay and restart motor. (Time taken: 2 min)
+Sat Feb  7 23:41:22 2026: Sensor Calibration Error - Recalibrate the sensor and test readings. (Time taken: 2 min)
+Sat Feb  7 23:41:27 2026: E-stop Triggered - Inspect safety circuit and reset E-stop. (Time taken: 1 min)
+Sat Feb  7 23:41:30 2026: Sensor Failure - Check wiring and replace sensor. (Time taken: 3 min)
+Sat Feb  7 23:43:24 2026: Sensor Calibration Error - Major - Recalibrate the sensor and test readings. (Time taken: 4 min)
+Sat Feb  7 23:43:28 2026: Motor Stalling - Critical - Diagnose power loss and reset motor. (Time taken: 10 min)
+Sat Feb  7 23:43:35 2026: Power Surge - Critical - Check power source and stabilize equipment. (Time taken: 12 min)
+Sat Feb  7 23:43:41 2026: Motor Stalling - Critical - Diagnose power loss and reset motor. (Time taken: 10 min)
+Sat Feb  7 23:43:45 2026: Sensor Failure - Minor - Check wiring and replace sensor. (Time taken: 3 min)
+Sat Feb  7 23:43:51 2026: Motor Stalling - Critical - Diagnose power loss and reset motor. (Time taken: 10 min)
+Sat Feb  7 23:43:57 2026: Power Surge - Critical - Check power source and stabilize equipment. (Time taken: 12 min)
+Sat Feb  7 23:44:00 2026: Motor Stalling - Critical - Diagnose power loss and reset motor. (Time taken: 10 min)
+Sat Feb  7 23:44:04 2026: Sensor Calibration Error - Major - Recalibrate the sensor and test readings. (Time taken: 4 min)
+Sat Feb  7 23:44:10 2026: E-stop Triggered - Critical - Inspect safety circuit and reset E-stop. (Time taken: 3 min)
+Sat Feb  7 23:48:05 2026: Motor Overload - Critical - Reset overload relay and restart motor. (Time taken: 5 min)
+Sat Feb  7 23:48:11 2026: Sensor Failure - Major - Check wiring and replace sensor. (Time taken: 6 min)
+Sat Feb  7 23:48:14 2026: Motor Overload - Major - Reset overload relay and restart motor. (Time taken: 5 min)
+Sat Feb  7 23:48:18 2026: Power Surge - Critical - Check power source and stabilize equipment. (Time taken: 12 min)
+Sat Feb  7 23:48:21 2026: Power Outage - Major - Verify power supply and restore service. (Time taken: 8 min)
+Sat Feb  7 23:48:27 2026: Motor Stalling - Critical - Diagnose power loss and reset motor. (Time taken: 10 min)
+Sat Feb  7 23:48:31 2026: Power Surge - Critical - Check power source and stabilize equipment. (Time taken: 12 min)
+Sat Feb  7 23:48:36 2026: Sensor Calibration Error - Major - Recalibrate the sensor and test readings. (Time taken: 4 min)
+Sat Feb  7 23:48:40 2026: E-stop Triggered - Critical - Inspect safety circuit and reset E-stop. (Time taken: 3 min)
+Sat Feb  7 23:48:46 2026: Sensor Calibration Error - Major - Recalibrate the sensor and test readings. (Time taken: 4 min)
+Sun Feb  8 00:04:40 2026: Power Surge - Critical - Check power source and stabilize equipment. (Time taken: 12 min)
+Sun Feb  8 00:04:45 2026: Communication Error - Major - Check network connection and reboot equipment. (Time taken: 7 min)
+Sun Feb  8 00:04:49 2026: Sensor Failure - Critical - Check wiring and replace sensor. (Time taken: 6 min)
+Sun Feb  8 00:04:52 2026: Motor Stalling - Major - Diagnose power loss and reset motor. (Time taken: 10 min)
+Sun Feb  8 00:04:58 2026: Power Outage - Major - Verify power supply and restore service. (Time taken: 8 min)
+Sun Feb  8 00:05:01 2026: Motor Stalling - Critical - Diagnose power loss and reset motor. (Time taken: 10 min)
+Sun Feb  8 00:05:07 2026: Power Surge - Critical - Check power source and stabilize equipment. (Time taken: 12 min)
+Sun Feb  8 00:05:10 2026: E-stop Triggered - Critical - Inspect safety circuit and reset E-stop. (Time taken: 3 min)
+Sun Feb  8 00:05:14 2026: Power Outage - Critical - Verify power supply and restore service. (Time taken: 8 min)
+Sun Feb  8 00:05:17 2026: Communication Error - Minor - Check network connection and reboot equipment. (Time taken: 3 min)
+Sun Feb  8 00:17:39 2026 | Sensor Calibration Error (Major) | Recalibrate sensor and validate readings. | Time: 4 min
+Sun Feb  8 00:17:45 2026 | E-stop Triggered (Critical) | Inspect safety circuit and reset E-stop. | Time: 3 min
+Sun Feb  8 00:17:50 2026 | Power Outage (Critical) | Verify power supply and restore service. | Time: 8 min
+Sun Feb  8 00:17:56 2026 | Power Outage (Critical) | Verify power supply and restore service. | Time: 8 min
+Sun Feb  8 00:17:59 2026 | Motor Overload (Critical) | Reset overload relay and restart motor. | Time: 5 min
+Sun Feb  8 00:18:05 2026 | Sensor Failure (Minor) | Check wiring and replace sensor. | Time: 3 min
+Sun Feb  8 00:18:09 2026 | Sensor Failure (Minor) | Check wiring and replace sensor. | Time: 3 min
+Sun Feb  8 00:18:14 2026 | Communication Error (Major) | Check network connection and reboot equipment. | Time: 7 min
+Sun Feb  8 00:18:21 2026 | Power Surge (Critical) | Check power source/UPS and stabilize equipment. | Time: 12 min
+Sun Feb  8 00:18:24 2026 | Motor Stalling (Critical) | Diagnose power loss, check load/binding, then reset motor. | Time: 10 min
+Sun Feb  8 00:23:17 2026 | Power Outage (Critical) | CORRECT | Correct Action: Verify power supply and restore service | Time: 7 min
+Sun Feb  8 00:30:42 2026 | E-stop Triggered (Critical) | CORRECT | Correct Action: Inspect safety circuit and reset E-stop | Time: 7 min
+Sun Feb  8 23:24:05 2026 | E-stop Triggered (Critical) | CORRECT | None | Correct Action: Inspect safety circuit and reset E-stop | Time: 7 min
+Sun Feb  8 23:24:51 2026 | E-stop Triggered (Critical) | CORRECT | None | Correct Action: Inspect safety circuit and reset E-stop | Time: 7 min
+Sun Feb  8 23:25:27 2026 | Sensor Calibration Error (Major) | CORRECT | None | Correct Action: Recalibrate sensor and validate readings | Time: 5 min
+Sun Feb  8 23:26:27 2026 | Motor Overload (Critical) | CORRECT | None | Correct Action: Reset overload relay and restart motor | Time: 7 min
+Sun Feb  8 23:27:25 2026 | Motor Stalling (Critical) | CORRECT | None | Correct Action: Diagnose load/binding and reset motor | Time: 7 min
+Sun Feb  8 23:29:47 2026 | Motor Overload (Major) | CORRECT | None | Correct Action: Reset overload relay and restart motor | Time: 5 min
+Sun Feb  8 23:30:32 2026 | Sensor Failure (Major) | CORRECT | None | Correct Action: Check wiring and replace sensor | Time: 5 min
+Sun Feb  8 23:36:34 2026 | Sensor Calibration Error (Major) | CORRECT | None | Correct Action: Recalibrate sensor and validate readings | Time: 5 min
+Sun Feb  8 23:53:06 2026 | Motor Stalling (Critical) | CORRECT | None | Correct Action: Diagnose load/binding and reset motor | Time: 7 min
+Sun Feb  8 23:54:33 2026 | Motor Overload (Critical) | CORRECT | None | Correct Action: Reset overload relay and restart motor | Time: 7 min
+Sun Feb  8 23:54:55 2026 | Motor Overload (Minor) | INCORRECT | ESCALATE: SUPERVISOR NOTIFY | Incorrect Action: Ignore fault and continue running → Escalation Required | Time: 12 min
+Mon Feb  9 00:13:18 2026 | Communication Error (Minor) | CORRECT | None | Correct Action: Check network connection and reboot equipment | Time: 2 min
+Mon Feb  9 00:13:28 2026 | Sensor Calibration Error (Major) | INCORRECT | ESCALATE: SUPERVISOR NOTIFY | Incorrect Action: Restart PLC blindly → Escalation Required | Time: 8 min
+Mon Feb  9 00:26:01 2026 | Communication Error (Major) | INCORRECT | ESCALATE: SUPERVISOR NOTIFY | Incorrect Action: Invalid choice → No action taken → Escalation Required | Time: 8 min
+Mon Feb  9 00:26:17 2026 | Sensor Failure (Critical) | CORRECT | None | Correct Action: Check wiring and replace sensor | Time: 7 min
+Mon Feb  9 00:26:27 2026 | Power Surge (Critical) | INCORRECT | AUTO ESCALATE: SAFETY / SUPERVISOR | Incorrect Action: Ignore surge → Escalation Required | Time: 12 min
+2026-02-09 00:44:57 | E-stop Triggered (Critical) | CORRECT | None | Correct Action: Inspect safety circuit and reset E-stop | Time: 7 min
+2026-02-09 00:51:30 | Communication Error (Major) | CORRECT | None | Correct Action: Check network connection and reboot equipment | Time: 5 min
+2026-02-09 01:09:17 | Motor Stalling (Major) | CORRECT | None | Correct Action: Diagnose load/binding and reset motor | Time: 5 min
+2026-02-09 01:11:37 | Power Surge (Critical) | CORRECT | None | Correct Action: Check UPS/power source and stabilize equipment | Time: 7 min

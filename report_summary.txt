@@ -1,0 +1,32 @@
+End-of-Day Fault Simulation Report
+============================================================
+
+Fault Count:
+Motor Overload: 0 occurrences
+Sensor Failure: 0 occurrences
+E-stop Triggered: 0 occurrences
+Power Outage: 0 occurrences
+Communication Error: 0 occurrences
+Motor Stalling: 1 occurrences
+Sensor Calibration Error: 0 occurrences
+Power Surge: 1 occurrences
+
+Totals:
+Total repair time: 12 minutes
+Total downtime (between faults): 11 seconds
+
+Technician Performance:
+Correct actions: 2
+Incorrect actions: 0
+Accuracy: 100%
+Grade: A
+
+Escalations / Status:
+Escalations (safety): 0
+Critical wrong actions: 0
+SLA breaches: 0
+HIGH SLA breaches: 0
+Site status: NORMAL
+
+============================================================
+End of Report

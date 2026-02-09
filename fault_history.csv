@@ -1,0 +1,3 @@
+Timestamp,Fault,Severity,Result,Escalation,Resolution,Repair_Time_Min,Total_Repair_Time_Min,Total_Downtime_Sec,Accuracy_Pct,Grade,Site_Status,Work_Order_File
+2026-02-09 01:09:17,Motor Stalling,Major,CORRECT,None,Correct Action: Diagnose load/binding and reset motor,5,5,0,100,A,NORMAL,
+2026-02-09 01:11:37,Power Surge,Critical,CORRECT,None,Correct Action: Check UPS/power source and stabilize equipment,7,12,6,100,A,NORMAL,
