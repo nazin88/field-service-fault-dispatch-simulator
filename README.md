@@ -44,8 +44,18 @@ This simulator recreates that environment by allowing a technician to:
 - **Maintenance Logging + CSV Export**  
   Generates structured outputs for reporting and audit documentation
 
-- **Screenshots Included**  
-  Visual proof of functionality stored in `/screenshots`
+----
+
+# 📸 Screenshots (GitHub Rendered)
+![Supervisor Queue](https://raw.githubusercontent.com/nazin88/field-service-fault-dispatch-simulator/main/screenshots/supervisor_queue.png)
+
+![Technician Prompt](https://raw.githubusercontent.com/nazin88/field-service-fault-dispatch-simulator/main/screenshots/technician_prompt.png)
+
+![Work Order](https://raw.githubusercontent.com/nazin88/field-service-fault-dispatch-simulator/main/screenshots/work_order.png)
+
+
+---
+ 
 
 ---
 
