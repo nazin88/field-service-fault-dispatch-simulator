@@ -1,101 +1,70 @@
-# 🚨 Field Service Fault Dispatch Simulator
+# Field Service Fault Dispatch Simulator
 
-Industrial automation fault response + CMMS-style work order dispatch simulator with supervisor queue, SLA breach escalation, technician scoring, and maintenance reporting.
+A Python-based simulator that models real-world **field service troubleshooting and dispatch operations**, including technician fault decision-making, escalation workflows, supervisor queue management, persistent work order tracking, and maintenance-style reporting.
 
----
+Built to reflect workflows commonly used in:
 
-## 🚀 Overview
-
-This project simulates a **real-world industrial maintenance and automation support workflow**, where equipment faults are detected, technicians respond with corrective actions, and escalations automatically generate work orders for supervisors.
-
-It reflects workflows used in:
-
-- Manufacturing plants  
-- Robotics field service teams  
-- Industrial maintenance operations  
-- Automation & controls support environments  
+- Industrial automation  
+- Robotics field service  
+- Telecom/RF maintenance  
+- Electronics troubleshooting  
+- CMMS-style dispatch environments  
 
 ---
 
-## 🔥 Core Features
+## 🚀 Project Overview
 
-### ✅ Fault Simulation + Severity Levels
+Field service teams respond to constant incoming faults: equipment alarms, breakdowns, escalations, and time-sensitive service-level agreements (SLAs).
 
-Generates realistic industrial faults such as:
+This simulator recreates that environment by allowing a technician to:
 
-- Motor Overload  
-- Motor Stalling  
-- Power Surge  
-- Communication Errors  
-- Sensor Failures  
-- Emergency Stop Triggered  
-
-Each fault includes severity:
-
-- Minor  
-- Major  
-- Critical  
+- Process faults step-by-step  
+- Escalate unresolved issues  
+- Generate persistent work orders  
+- Track service response timing  
+- View supervisor dispatch queues  
+- Export logs and CSV reports  
 
 ---
 
-### 🧑‍🔧 Technician Decision System
+## ✅ Key Features
 
-Technicians must choose the correct corrective action for every fault.
+- **Technician Fault Decision-Making**
+  - Resolve faults, escalate issues, or request additional support
 
-The simulator tracks:
+- **Persistent Work Order IDs**
+  - Work orders remain consistent across sessions for realistic tracking
 
-- Correct vs Incorrect responses  
-- Technician accuracy score  
-- Letter grade performance (A–F)
+- **Escalation Workflow**
+  - Unresolved faults automatically route into escalation handling
 
----
+- **Supervisor Dispatch Queue View (`Q`)**
+  - Supervisors can view active escalations and pending dispatch items
 
-### 📊 Live Field Service Dashboard
+- **Maintenance Logging + CSV Export**
+  - Generates structured outputs for reporting and audit documentation
 
-A continuously updating terminal dashboard shows:
-
-- Last detected fault  
-- Severity level  
-- Technician result  
-- Escalation status  
-- Repair time tracking  
-- Total downtime  
-- Fault count totals  
+- **Screenshots Included**
+  - Visual proof of system functionality stored in `/screenshots`
 
 ---
 
-### 🧾 Maintenance Work Order Generation (CMMS-Style)
+## ⚙️ How the Simulator Works
 
-When a technician selects an incorrect or unsafe action, the system auto-generates a work order:
-
-- Priority level (HIGH / MEDIUM)
-- SLA target time
-- Escalation flags
-- Required supervisor follow-up
-- Tools checklist
-
-Work orders are saved as:
-
-- Individual `.txt` work order files  
-- Master `work_orders.csv` export  
+1. A fault is generated and assigned a unique **Work Order ID**
+2. The technician responds with an action:
+   - Resolve  
+   - Escalate  
+   - Request parts/support  
+3. Escalated work orders appear in the supervisor queue (`Q`)
+4. All actions are logged for traceability
+5. CSV exports simulate real maintenance reporting
 
 ---
 
-### 🚨 SLA Breach Escalation
+## ▶️ Run Locally
 
-Each work order is monitored against its SLA.
-
-If the work order exceeds the allowed response window:
-
-- Status changes to **BREACHED**
-- Supervisor queue flags the escalation
-- Dispatch priority increases automatically
-
----
-
-### 👨‍💼 Supervisor Dispatch Queue View
-
-At any technician prompt, supervisors can type:
+Clone the repository and run:
 
 ```bash
-Q
+python app.py
