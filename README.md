@@ -1,4 +1,4 @@
-# ⚙️ Field Service Fault & Work Order Dispatch Simulator
+# 🚨 Field Service Fault Dispatch Simulator
 
 Industrial automation fault response + CMMS-style work order dispatch simulator with supervisor queue, SLA breach escalation, technician scoring, and maintenance reporting.
 
@@ -20,6 +20,7 @@ It reflects workflows used in:
 ## 🔥 Core Features
 
 ### ✅ Fault Simulation + Severity Levels
+
 Generates realistic industrial faults such as:
 
 - Motor Overload  
@@ -37,34 +38,64 @@ Each fault includes severity:
 
 ---
 
-### 👷 Technician Decision System
-Technicians must choose the correct action for every fault.
+### 🧑‍🔧 Technician Decision System
 
-System tracks:
+Technicians must choose the correct corrective action for every fault.
 
-- Correct vs incorrect actions  
-- Safety violations  
-- Technician accuracy  
-- Final technician grade (A–F)
+The simulator tracks:
 
----
-
-### 📄 CMMS-Style Work Order Generation
-Incorrect or unsafe responses trigger escalation work orders with:
-
-- Persistent IDs (`WO-000001`, `WO-000002`, …)  
-- Supervisor notification requirements  
-- Tool checklist + corrective follow-up steps  
-- Site status + escalation notes  
-
-Sample output files:
-
-- `work_order_WO-000001_....txt`
+- Correct vs Incorrect responses  
+- Technician accuracy score  
+- Letter grade performance (A–F)
 
 ---
 
-### 📊 Supervisor Dispatch Queue View
+### 📊 Live Field Service Dashboard
+
+A continuously updating terminal dashboard shows:
+
+- Last detected fault  
+- Severity level  
+- Technician result  
+- Escalation status  
+- Repair time tracking  
+- Total downtime  
+- Fault count totals  
+
+---
+
+### 🧾 Maintenance Work Order Generation (CMMS-Style)
+
+When a technician selects an incorrect or unsafe action, the system auto-generates a work order:
+
+- Priority level (HIGH / MEDIUM)
+- SLA target time
+- Escalation flags
+- Required supervisor follow-up
+- Tools checklist
+
+Work orders are saved as:
+
+- Individual `.txt` work order files  
+- Master `work_orders.csv` export  
+
+---
+
+### 🚨 SLA Breach Escalation
+
+Each work order is monitored against its SLA.
+
+If the work order exceeds the allowed response window:
+
+- Status changes to **BREACHED**
+- Supervisor queue flags the escalation
+- Dispatch priority increases automatically
+
+---
+
+### 👨‍💼 Supervisor Dispatch Queue View
+
 At any technician prompt, supervisors can type:
 
-```text
+```bash
 Q
