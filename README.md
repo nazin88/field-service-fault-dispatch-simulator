@@ -29,23 +29,23 @@ This simulator recreates that environment by allowing a technician to:
 
 ## ✅ Key Features
 
-- **Technician Fault Decision-Making**
-  - Resolve faults, escalate issues, or request additional support
+- **Technician Fault Decision-Making**  
+  Resolve faults, escalate issues, or request additional support
 
-- **Persistent Work Order IDs**
-  - Work orders remain consistent across sessions for realistic tracking
+- **Persistent Work Order IDs**  
+  Work orders remain consistent across sessions for realistic tracking
 
-- **Escalation Workflow**
-  - Unresolved faults automatically route into escalation handling
+- **Escalation Workflow**  
+  Unresolved faults automatically route into escalation handling
 
-- **Supervisor Dispatch Queue View (`Q`)**
-  - Supervisors can view active escalations and pending dispatch items
+- **Supervisor Dispatch Queue View (`Q`)**  
+  Supervisors can view active escalations and pending dispatch items
 
-- **Maintenance Logging + CSV Export**
-  - Generates structured outputs for reporting and audit documentation
+- **Maintenance Logging + CSV Export**  
+  Generates structured outputs for reporting and audit documentation
 
-- **Screenshots Included**
-  - Visual proof of system functionality stored in `/screenshots`
+- **Screenshots Included**  
+  Visual proof of functionality stored in `/screenshots`
 
 ---
 
