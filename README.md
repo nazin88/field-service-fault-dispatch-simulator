@@ -1,4 +1,6 @@
 # Field Service Fault Dispatch Simulator
+## 🎥 Demo Video  
+📺 Click here to watch: [Field Service Fault Dispatch Simulator Walkthrough](https://www.loom.com/share/784677200d2444aebda10b26d36b98c0)
 
 A Python-based simulator that models real-world **field service troubleshooting and dispatch operations**, including technician fault decision-making, escalation workflows, supervisor queue management, persistent work order tracking, and maintenance-style reporting.
 
